@@ -31,9 +31,9 @@ const Footer=()=>{
     return(
         <div className={classes.footer}>
             <div><p>
-            <a className={classes.link} href="https://github.com/nermoo"><GitHubIcon/></a>
-            <a className={classes.link} href="https://www.facebook.com/aravinda.navarathna"><FacebookIcon/></a>
-            <a className={classes.link} href="linkedin.com/in/aravinda-nawarathna-a6765a196"><LinkedInIcon/></a>
+            <a className={classes.link} href="https://github.com/thejana123"><GitHubIcon/></a>
+            <a className={classes.link} href="https://www.facebook.com/thejana.lakshan/"><FacebookIcon/></a>
+            <a className={classes.link} href="https://www.linkedin.com/in/thejana-lakshan-866020179/"><LinkedInIcon/></a>
             </p></div>
 
         </div>

@@ -114,7 +114,7 @@ const Signup=()=>{
                 setreg(true);
                 console.log("done");
                 console.log(email,username,password);
-                axios.post('http://localhost:3001/userData',{
+                axios.post('http://localhost:3000/userData',{
                   Name:username,
                   Email:email,
                   Password:password

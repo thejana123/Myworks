@@ -17,6 +17,7 @@ const useStyles = makeStyles({
         backgroundColor:'#b2dfdb',
         textAlign:'center',
         marginBottom:'auto'
+       
 
       },
       bullet: {
